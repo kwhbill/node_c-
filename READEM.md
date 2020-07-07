@@ -1,4 +1,4 @@
-# c++插件  [Node文档](http://nodejs.cn/api/addons.html#addons_building "c++")
+# c++插件的开发和使用  [Node文档](http://nodejs.cn/api/addons.html#addons_building "c++")
 
 * 新建 addon.cc ,写 c++ 方法
 * 它必须被编译成二进制 addon.node 文件 ，需创建一个名为 binding.gyp 的文件
